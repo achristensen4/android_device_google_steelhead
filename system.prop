@@ -1,4 +1,4 @@
-com.ti.omap_enhancement=true
+com.ti.omap_enhancement=false
 
 #define a property for hdmi sink channel count
 dolby.audio.hdmi.channels=0
